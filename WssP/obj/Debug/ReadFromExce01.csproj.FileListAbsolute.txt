@@ -1,0 +1,14 @@
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\bin\Debug\ReadFromExce01.exe.config
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\bin\Debug\ReadFromExce01.exe
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\bin\Debug\ReadFromExce01.pdb
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.csproj.ResolveComReference.cache
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.Form1.resources
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.frmMain.resources
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.frmLogin.resources
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.Properties.Resources.resources
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.csproj.GenerateResource.Cache
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\RdlCompile.cache
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\RdlCompile.compiled
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.exe
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.pdb
+C:\Users\Nazim\Documents\Visual Studio 2013\Projects\ReadFromExce01\ReadFromExce01\obj\Debug\ReadFromExce01.csprojResolveAssemblyReference.cache
